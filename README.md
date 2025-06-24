@@ -183,3 +183,6 @@ Here are the general steps to run this on a VPS:
 3. Make sure Docker and Docker Compose are installed on the VPS, then run the application using Docker Compose.
 
 Please note that the exact steps can vary based on the VPS provider and the operating system of the VPS.
+
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_vf-twilio-sms-integration&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_vf-twilio-sms-integration)
